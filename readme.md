@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TAITOJIN/CyberCreators_2026_TaitoJin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TAITOJIN/CyberCreators_2026_TaitoJin/output/github-contribution-grid-snake-light.svg">
-  <img alt="Grid Snake" src="https://raw.githubusercontent.com/TAITOJIN/CyberCreators_2026_TaitoJin/output/github-contribution-grid-snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="img/github-snake.svg" />
+  <img alt="github-snake" src="img/github-snake.svg" />
 </picture>
 
 # Hokkaido Cyber Creators Professional Training College

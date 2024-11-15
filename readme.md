@@ -22,6 +22,6 @@
 🔗[Instagram](https://www.instagram.com/yoshidajobi/)<br>
 🔗[Youtube](https://www.youtube.com/@jobigame)
 
-## ディレクトリ構成
+## 📁 Directory
 📁exe<br>
  ┣ <br>
